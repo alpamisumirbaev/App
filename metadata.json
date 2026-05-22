@@ -1,0 +1,6 @@
+{
+  "name": "PrepMax",
+  "description": "An outstanding offline student study preparatory app featuring 300 interactive, curriculum-based questions divided into 12 blocks, detailed progress tracking, historical scores timeline, and comprehensive incorrect answer tutoring explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
